@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=220&section=header&text=Dimitris%20Mitsos&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CosmoHacker%20%E2%80%A2%20Builder%20%E2%80%A2%20Researcher&descSize=16&descAlignY=55&descColor=00ff88)
+<img src="./header.svg" width="100%" alt="Dimitris Mitsos — CosmoHacker · Builder · Hacker"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Self-taught+developer+from+Greece;Building+things+that+beat+the+state+of+the+art;Maximizing+eudaimonia+across+the+cosmos)](https://git.io/typing-svg)
 
