@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Self-taught+developer+from+Greece;Building+things+that+beat+the+state+of+the+art;Maximizing+eudaimonia+across+the+cosmos)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/@DimitriosMitsos-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DimitriosMitsos)
-[![CosmoHac](https://img.shields.io/badge/cosmohac.com-0d1117?style=for-the-badge&logo=globe&logoColor=00ff88)](https://cosmohac.com)
-[![AgentsKB](https://img.shields.io/badge/AgentsKB.com-0d1117?style=for-the-badge&logo=robot&logoColor=00ff88)](https://agentskb.com)
+[![CosmoHac](https://img.shields.io/badge/cosmohac.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff88)](https://cosmohac.com)
+[![AgentsKB](https://img.shields.io/badge/AgentsKB.com-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88)](https://agentskb.com)
 
 </div>
 
