@@ -14,7 +14,7 @@
 
 ### Currently Building
 
-**[AxiOS](https://github.com/CosmoHacker/AxiOS)** — A multi-phase deep research agent. Adaptive queries, multi-engine search, finding extraction, and synthesis into structured reports. Powered by **[AgentsKB](https://agentskb.com)**.
+**AxiOS** — A multi-phase deep research agent. Adaptive queries, multi-engine search, finding extraction, and synthesis into structured reports. Powered by **[AgentsKB](https://agentskb.com)**. *Coming soon.*
 
 ---
 
