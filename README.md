@@ -84,8 +84,18 @@
 
 <div align="center">
 
-*A CosmoHacker is someone whose actions are meant to make someone else's life a bit better.*
+```
+                        ╔═══════════════════════════════════════════════╗
+                        ║                                               ║
+                        ║   "A CosmoHacker is someone whose actions     ║
+                        ║    are meant to make someone else's life      ║
+                        ║    a bit better."                             ║
+                        ║                                               ║
+                        ║          ♥  Hacking the Cosmos  ♥             ║
+                        ║                                               ║
+                        ╚═══════════════════════════════════════════════╝
+
+              ·  ˚  ✦  .    ·    ˚   ·  .    ✦   ˚    ·  .  ✦  ·   ˚
+```
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=100&section=footer)
