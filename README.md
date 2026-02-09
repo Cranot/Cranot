@@ -63,8 +63,22 @@
 </td>
 <td width="50%">
 
+**[roam-code](https://github.com/Cranot/roam-code)**
+<br/>Instant codebase comprehension for AI agents. Index once, query everything — symbols, architecture, deps, git signals.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 **[deep-research](https://github.com/Cranot/deep-research)** ⭐ 163
 <br/>Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
+
+</td>
+<td width="50%">
+
+**[AgentsKB](https://agentskb.com)** — 39K+ Q&As
+<br/>The knowledge layer for AI agents. Deterministic answers from official docs in 40ms. Replaces web search.
 
 </td>
 </tr>
