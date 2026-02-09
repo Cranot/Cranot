@@ -14,7 +14,11 @@
 
 ### Currently Building
 
-**AxiOS** — A multi-phase deep research agent. Adaptive queries, multi-engine search, finding extraction, and synthesis into structured reports. Powered by **[AgentsKB](https://agentskb.com)**. *Coming soon.*
+**[AgentsKB](https://agentskb.com)** — The knowledge layer for AI agents. 39K+ researched Q&As, 40ms deterministic answers. Replaces web search in agent loops.
+
+**[roam-code](https://github.com/Cranot/roam-code)** — Instant codebase comprehension for AI agents. Index once, query everything. Replaces explore mode.
+
+**AxiOS** — Multi-phase deep research agent. Adaptive queries, multi-engine search, synthesis into structured reports. Powered by AgentsKB. *Coming soon.*
 
 ---
 
