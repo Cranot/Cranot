@@ -12,44 +12,20 @@
 
 ---
 
-### Currently Building
-
-**[AgentsKB](https://agentskb.com)** — The knowledge layer for AI agents. 39K+ researched Q&As, 40ms deterministic answers. Replaces web search in agent loops.
-
-**[roam-code](https://github.com/Cranot/roam-code)** — Instant codebase comprehension for AI agents. Index once, query everything. Replaces explore mode.
-
-**AxiOS** — Multi-phase deep research agent. Adaptive queries, multi-engine search, synthesis into structured reports. Powered by AgentsKB. *Coming soon.*
-
----
-
-### Research & Original Work
+### Products
 
 <table>
 <tr>
 <td width="50%">
 
-**[grouped-simd-hashtable](https://github.com/Cranot/grouped-simd-hashtable)** ⭐ 46
-<br/>High-performance C++ hash table using grouped SIMD metadata scanning. Beats SOTA at scale.
+**[AgentsKB](https://agentskb.com)** — 39K+ Q&As
+<br/>The knowledge layer for AI agents. Deterministic answers from official docs in 40ms. Replaces web search.
 
 </td>
 <td width="50%">
 
-**[tieredsort](https://github.com/Cranot/tieredsort)** ⭐ 30
-<br/>Header-only C++17 sorting library. 3.6x faster than `std::sort`, up to 21x on dense data.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[chameleon-cache](https://github.com/Cranot/chameleon-cache)** ⭐ 3
-<br/>Variance-aware cache replacement policy that beats TinyLFU by +5.09pp through the Basin of Leniency.
-
-</td>
-<td width="50%">
-
-**[mzip](https://github.com/Cranot/mzip)**
-<br/>Detection-based compression: 32KB for 1MB of sequential IDs (32768x). Store the formula, not the data.
+**[roam-code](https://github.com/Cranot/roam-code)**
+<br/>Instant codebase comprehension for AI agents. Index once, query everything — symbols, architecture, deps, git signals.
 
 </td>
 </tr>
@@ -67,22 +43,41 @@
 </td>
 <td width="50%">
 
-**[roam-code](https://github.com/Cranot/roam-code)**
-<br/>Instant codebase comprehension for AI agents. Index once, query everything — symbols, architecture, deps, git signals.
+**[deep-research](https://github.com/Cranot/deep-research)** ⭐ 163
+<br/>Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
+
+</td>
+</tr>
+</table>
+
+### Research & Explorations
+
+<table>
+<tr>
+<td width="50%">
+
+**[chameleon-cache](https://github.com/Cranot/chameleon-cache)** ⭐ 3
+<br/>Variance-aware cache replacement policy. Developed with feedback from Ben Manes (Caffeine). +5.09pp over TinyLFU.
+
+</td>
+<td width="50%">
+
+**[mzip](https://github.com/Cranot/mzip)**
+<br/>Detection-based compression: 32KB for 1MB of sequential IDs (32768x). Store the formula, not the data.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[deep-research](https://github.com/Cranot/deep-research)** ⭐ 163
-<br/>Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
+**[grouped-simd-hashtable](https://github.com/Cranot/grouped-simd-hashtable)** ⭐ 46
+<br/>High-performance C++ hash table using grouped SIMD metadata scanning.
 
 </td>
 <td width="50%">
 
-**[AgentsKB](https://agentskb.com)** — 39K+ Q&As
-<br/>The knowledge layer for AI agents. Deterministic answers from official docs in 40ms. Replaces web search.
+**[tieredsort](https://github.com/Cranot/tieredsort)** ⭐ 30
+<br/>Header-only C++17 sorting library. 3.6x faster than `std::sort`, up to 21x on dense data.
 
 </td>
 </tr>
@@ -99,4 +94,3 @@
 </div>
 
 <br/>
-
