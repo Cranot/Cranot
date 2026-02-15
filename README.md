@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Dimitris Mitsos — CosmoHacker · Builder · Hacker"/>
+<img src="./header.svg" width="100%" alt="Dimitris Mitsos — CosmoHacker · Builder · Roamer"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer+Tools+%26+Systems+Engineering;Building+things+that+beat+the+state+of+the+art;Maximizing+eudaimonia+across+the+cosmos)](https://git.io/typing-svg)
 
