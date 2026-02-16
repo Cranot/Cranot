@@ -43,7 +43,7 @@ This isn't RAG and it isn't a fixed database. It's a knowledge substrate that ex
 <td width="50%">
 
 **[deep-research](https://github.com/Cranot/deep-research)** ⭐ 163
-<br/>`now ★★★☆☆` · `peak ★★★★★`
+<br/>`now ★★☆☆☆` · `peak ★★★★★`
 
 Multi-agent fractal research. Ask a question, spawn recursive sub-agents that explore different perspectives, synthesize everything into one answer. Highest ceiling of anything here.
 
