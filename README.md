@@ -12,19 +12,25 @@
 
 ---
 
-### AgentsKB — The Knowledge Layer
+> Each project carries a gem rating: **now** `★★★★☆` and **peak** `★★★★★` — where it is today vs where it can go.
+
+### The Gem
 
 <table>
 <tr>
 <td>
 
-**[AgentsKB](https://agentskb.com)** — Models reason. They don't remember.
+**[AgentsKB](https://agentskb.com)** &nbsp; `now ★★★★☆` · `peak ★★★★★`
 
-AgentsKB gives your agents deterministic knowledge from official documentation. No retrieval latency, no hallucinated URLs, no stale web results. Your agent asks a question and gets a verified answer in 40ms.
+Models reason. They don't remember.
 
-This isn't RAG. It's a knowledge substrate. Plug it in as an MCP server and your agent stops guessing about APIs, SDKs, and frameworks. It just knows.
+AgentsKB is the knowledge layer for AI agents. Plug it in as an MCP server and your agent stops guessing about APIs, SDKs, and frameworks. It just knows.
 
-39K+ curated Q&As across 80+ technologies. The knowledge cutoff disappears.
+Instant mode: 39K+ curated Q&As across 80+ technologies. Verified answers in 40ms. No retrieval latency, no hallucinated URLs, no stale web results.
+
+Research mode: technology not covered yet? Your agent asks, AgentsKB researches it from official sources and returns a verified answer. The coverage grows with every query.
+
+This isn't RAG and it isn't a fixed database. It's a knowledge substrate that expands. The knowledge cutoff disappears.
 
 </td>
 </tr>
@@ -36,14 +42,32 @@ This isn't RAG. It's a knowledge substrate. Plug it in as an MCP server and your
 <tr>
 <td width="50%">
 
-**[roam-code](https://github.com/Cranot/roam-code)**
-<br/>Instant codebase comprehension for AI agents. One `roam index` and your agent has symbols, call graphs, architecture, dependencies, git signals. No more burning context on file exploration.
+**[deep-research](https://github.com/Cranot/deep-research)** ⭐ 163
+<br/>`now ★★★☆☆` · `peak ★★★★★`
+
+Multi-agent fractal research. Ask a question, spawn recursive sub-agents that explore different perspectives, synthesize everything into one answer. Highest ceiling of anything here.
 
 </td>
 <td width="50%">
 
-**[deep-research](https://github.com/Cranot/deep-research)** ⭐ 163
-<br/>Multi-agent fractal research. Ask a question, spawn recursive sub-agents that explore different perspectives, synthesize everything into one answer.
+**[roam-code](https://github.com/Cranot/roam-code)**
+<br/>`now ★★★☆☆` · `peak ★★★★☆`
+
+Instant codebase comprehension for AI agents. One `roam index` and your agent has symbols, call graphs, architecture, dependencies, git signals. No more burning context on file exploration.
+
+</td>
+</tr>
+</table>
+
+### Compression Research
+
+<table>
+<tr>
+<td>
+
+**[mzip](https://github.com/Cranot/mzip)** &nbsp; `now ★★★☆☆` · `peak ★★★★☆`
+
+Detection-based compression. Recognizes patterns instead of encoding bytes. 32KB for 1MB of sequential IDs (32768x). 75% win rate vs zstd and brotli on structured data. Store the formula, not the data.
 
 </td>
 </tr>
@@ -53,27 +77,19 @@ This isn't RAG. It's a knowledge substrate. Plug it in as an MCP server and your
 
 <table>
 <tr>
-<td width="50%">
-
-**[mzip](https://github.com/Cranot/mzip)**
-<br/>Detection-based compression. Recognizes patterns instead of encoding bytes. 32KB for 1MB of sequential IDs (32768x). 75% win rate vs zstd and brotli on structured data.
-
-</td>
-<td width="50%">
+<td width="33%">
 
 **[chameleon-cache](https://github.com/Cranot/chameleon-cache)** ⭐ 3
-<br/>Variance-aware cache replacement policy. +5.09pp over TinyLFU. Developed with feedback from Ben Manes (Caffeine).
+<br/>Variance-aware cache replacement. +5.09pp over TinyLFU. Developed with feedback from Ben Manes (Caffeine).
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
 **[grouped-simd-hashtable](https://github.com/Cranot/grouped-simd-hashtable)** ⭐ 46
 <br/>High-performance C++ hash table using grouped SIMD metadata scanning.
 
 </td>
-<td width="50%">
+<td width="33%">
 
 **[tieredsort](https://github.com/Cranot/tieredsort)** ⭐ 30
 <br/>Header-only C++17 sorting. 3.6x faster than `std::sort`, up to 21x on dense data.
