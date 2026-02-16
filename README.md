@@ -48,6 +48,16 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[roam-agent-eval](https://github.com/Cranot/roam-agent-eval)** — [live results](https://cranot.github.io/roam-agent-eval/)
+<br/>AI agent code quality benchmark. 5 tasks, 3 agents, 15 evaluations — measured by roam-code.
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ### Research & Explorations
