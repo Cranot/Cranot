@@ -20,7 +20,7 @@
 <tr>
 <td>
 
-**[AgentsKB](https://agentskb.com)** &nbsp; `now ★★★★☆` · `peak ★★★★★`
+**[AgentsKB](https://agentskb.com)** &nbsp; `now ★★★☆☆` · `peak ★★★★☆`
 
 Models reason. They don't remember.
 
