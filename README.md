@@ -12,68 +12,57 @@
 
 ---
 
-### Products
+### AgentsKB — The Knowledge Layer
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-**[AgentsKB](https://agentskb.com)** — 39K+ Q&As
-<br/>The knowledge layer for AI agents. Deterministic answers from official docs in 40ms. Replaces web search.
+**[AgentsKB](https://agentskb.com)** — Models reason. They don't remember.
 
-</td>
-<td width="50%">
+AgentsKB gives your agents deterministic knowledge from official documentation. No retrieval latency, no hallucinated URLs, no stale web results. Your agent asks a question and gets a verified answer in 40ms.
 
-**[roam-code](https://github.com/Cranot/roam-code)**
-<br/>Instant codebase comprehension for AI agents. Index once, query everything — symbols, architecture, deps, git signals.
+This isn't RAG. It's a knowledge substrate. Plug it in as an MCP server and your agent stops guessing about APIs, SDKs, and frameworks. It just knows.
+
+39K+ curated Q&As across 80+ technologies. The knowledge cutoff disappears.
 
 </td>
 </tr>
 </table>
 
-### AI & Developer Tools
+### Agent Intelligence
 
 <table>
 <tr>
 <td width="50%">
 
-**[claude-code-guide](https://github.com/Cranot/claude-code-guide)** ⭐ 2.3k
-<br/>The complete Claude Code CLI guide. Live & auto-updated every 2 days.
+**[roam-code](https://github.com/Cranot/roam-code)**
+<br/>Instant codebase comprehension for AI agents. One `roam index` and your agent has symbols, call graphs, architecture, dependencies, git signals. No more burning context on file exploration.
 
 </td>
 <td width="50%">
 
 **[deep-research](https://github.com/Cranot/deep-research)** ⭐ 163
-<br/>Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
+<br/>Multi-agent fractal research. Ask a question, spawn recursive sub-agents that explore different perspectives, synthesize everything into one answer.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[roam-agent-eval](https://github.com/Cranot/roam-agent-eval)** — [live results](https://cranot.github.io/roam-agent-eval/)
-<br/>AI agent code quality benchmark. 5 tasks, 3 agents, 15 evaluations — measured by roam-code.
-
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
 
-### Research & Explorations
+### Systems Research
 
 <table>
 <tr>
 <td width="50%">
 
-**[chameleon-cache](https://github.com/Cranot/chameleon-cache)** ⭐ 3
-<br/>Variance-aware cache replacement policy. Developed with feedback from Ben Manes (Caffeine). +5.09pp over TinyLFU.
+**[mzip](https://github.com/Cranot/mzip)**
+<br/>Detection-based compression. Recognizes patterns instead of encoding bytes. 32KB for 1MB of sequential IDs (32768x). 75% win rate vs zstd and brotli on structured data.
 
 </td>
 <td width="50%">
 
-**[mzip](https://github.com/Cranot/mzip)**
-<br/>Detection-based compression: 32KB for 1MB of sequential IDs (32768x). Store the formula, not the data.
+**[chameleon-cache](https://github.com/Cranot/chameleon-cache)** ⭐ 3
+<br/>Variance-aware cache replacement policy. +5.09pp over TinyLFU. Developed with feedback from Ben Manes (Caffeine).
 
 </td>
 </tr>
@@ -87,7 +76,26 @@
 <td width="50%">
 
 **[tieredsort](https://github.com/Cranot/tieredsort)** ⭐ 30
-<br/>Header-only C++17 sorting library. 3.6x faster than `std::sort`, up to 21x on dense data.
+<br/>Header-only C++17 sorting. 3.6x faster than `std::sort`, up to 21x on dense data.
+
+</td>
+</tr>
+</table>
+
+### Guides & Benchmarks
+
+<table>
+<tr>
+<td width="50%">
+
+**[roam-agent-eval](https://github.com/Cranot/roam-agent-eval)** — [live results](https://cranot.github.io/roam-agent-eval/)
+<br/>AI agent code quality benchmark. 5 real-world tasks, 3 agents, 15 evaluations. Structural quality measured by roam-code.
+
+</td>
+<td width="50%">
+
+**[claude-code-guide](https://github.com/Cranot/claude-code-guide)** ⭐ 2.3k
+<br/>The complete Claude Code CLI guide. Live & auto-updated every 2 days.
 
 </td>
 </tr>
