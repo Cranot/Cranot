@@ -7,6 +7,7 @@
 [![X](https://img.shields.io/badge/@DimitriosMitsos-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DimitriosMitsos)
 [![CosmoHac](https://img.shields.io/badge/cosmohac.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff88)](https://cosmohac.com)
 [![AgentsKB](https://img.shields.io/badge/AgentsKB.com-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88)](https://agentskb.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cranot)
 
 </div>
 
