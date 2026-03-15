@@ -60,7 +60,7 @@ Multi-agent fractal research. Ask a question, spawn recursive sub-agents that ex
 
 **[AgentsKB](https://agentskb.com)** · [MCP Server](https://github.com/Cranot/agentskb-mcp)
 
-Knowledge layer for AI agents. 39K+ curated Q&As across 80+ technologies, verified answers in 40ms. Plug it in as an MCP server and your agent stops guessing about APIs, SDKs, and frameworks. Coverage grows with every query.
+Knowledge layer for AI agents. 39K+ curated Q&As across 80+ technologies, verified answers in 40ms. **Completely free, no limits.** Plug it in as an MCP server and your agent stops guessing about APIs, SDKs, and frameworks.
 
 </td>
 <td width="50%">
