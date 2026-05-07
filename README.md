@@ -15,7 +15,7 @@
 
 I build the intelligence layer for AI coding agents — from structural analysis tools to knowledge infrastructure to the underlying cognitive-compression research. Systems engineering background. 3,700+ stars across agent tooling, AI security, and performance research.
 
-**Open to** co-founding conversations, CTO roles, and deep technical collaborations in agent infrastructure. Reach out via [X](https://x.com/DimitriosMitsos).
+**Open to** collaborations in agent infrastructure. Reach out via [X](https://x.com/DimitriosMitsos).
 
 ---
 
