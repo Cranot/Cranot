@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Dimitris Mitsos — CosmoHacker · Builder · Roamer"/>
+<img src="./header.svg" width="100%" alt="Dimitris Mitsos — Agent Infrastructure · Systems Engineering"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Agent+infrastructure+%26+cognitive+compression+research;Cheapest+model+%2B+right+prompt+%3E+most+expensive+model;Open+to+co-founding+%26+CTO+roles+in+agent+infra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+the+intelligence+layer+for+AI+coding+agents;Architectural+analysis+%C2%B7+knowledge+infra+%C2%B7+applied+research;Open+to+co-founding+and+CTO+roles+in+agent+infrastructure)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/@DimitriosMitsos-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DimitriosMitsos)
-[![CosmoHac](https://img.shields.io/badge/cosmohac.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff88)](https://cosmohac.com)
+[![roam-code](https://img.shields.io/badge/roam--code.com-0d1117?style=for-the-badge&logo=pypi&logoColor=00ff88)](https://roam-code.com)
 [![AgentsKB](https://img.shields.io/badge/AgentsKB.com-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88)](https://agentskb.com)
 [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cranot)
 
@@ -13,11 +13,27 @@
 
 ---
 
-I build the intelligence layer for AI agents — from structural analysis tools to knowledge infrastructure to the cognitive compression research underneath. Systems engineering background. 3,700+ stars across agent tooling, AI security, and performance research.
+I build the intelligence layer for AI coding agents — from structural analysis tools to knowledge infrastructure to the underlying cognitive-compression research. Systems engineering background. 3,700+ stars across agent tooling, AI security, and performance research.
 
-**Looking for**: co-founding conversations, CTO roles, or deep technical collaborations in agent infrastructure. [DM me](https://x.com/DimitriosMitsos).
+**Open to** co-founding conversations, CTO roles, and deep technical collaborations in agent infrastructure. Reach out via [X](https://x.com/DimitriosMitsos).
 
 ---
+
+### Flagship
+
+<table>
+<tr>
+<td>
+
+### [roam-code](https://roam-code.com) &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/Cranot/roam-code?style=flat&label=%E2%98%85&color=00ff88&labelColor=0d1117)](https://github.com/Cranot/roam-code) &nbsp;·&nbsp; [![PyPI](https://img.shields.io/pypi/v/roam-code?style=flat&color=00ff88&labelColor=0d1117&label=pypi)](https://pypi.org/project/roam-code/)
+
+The architectural intelligence layer for AI coding agents. Run `roam index` once and your agent starts with the codebase fully mapped — symbols, call graphs, dependencies, architecture, and git history pre-indexed into a local SQLite database. 100% local, zero API keys.
+
+**[→ roam-code.com](https://roam-code.com)** &nbsp;·&nbsp; [Docs](https://roam-code.com/docs) &nbsp;·&nbsp; [GitHub](https://github.com/Cranot/roam-code) &nbsp;·&nbsp; `pip install roam-code`
+
+</td>
+</tr>
+</table>
 
 ### Research
 
@@ -27,11 +43,11 @@ I build the intelligence layer for AI agents — from structural analysis tools 
 
 **[agi-in-md](https://github.com/Cranot/agi-in-md)** ⭐ 121
 
-Cognitive compression research. System prompts are cognitive prisms — they change how models frame problems, not how well they solve them.
+Cognitive-compression research. System prompts are cognitive prisms — they change how models frame problems, not how well they solve them.
 
 **The result**: Haiku 4.5 (cheapest model, minimum reasoning) with the right 332-word prompt scores 9.8 depth and finds 28 bugs. Opus 4.6 (most expensive model, maximum reasoning) without it scores 7.3 and finds 18. 5x cheaper, categorically deeper. **The prompt is the dominant variable.**
 
-40 rounds. 1,000+ experiments across Haiku/Sonnet/Opus. 13 compression levels (L13 = reflexive ceiling). 204 proven principles. 33 production prisms. Validated on Claude and Gemini. Includes Prism — a CLI tool for structural analysis through cognitive prisms.
+40 rounds. 1,000+ experiments across Haiku, Sonnet, and Opus. 13 compression levels (L13 = reflexive ceiling). 204 proven principles. 33 production prisms. Validated on Claude and Gemini. Includes Prism — a CLI tool for structural analysis through cognitive prisms.
 
 </td>
 </tr>
@@ -41,30 +57,21 @@ Cognitive compression research. System prompts are cognitive prisms — they cha
 
 <table>
 <tr>
-<td width="50%">
-
-**[roam-code](https://github.com/Cranot/roam-code)** ⭐ 417
-
-Architectural intelligence layer for AI coding agents. One `roam index` and your agent has symbols, call graphs, architecture, dependencies, git signals. 139 commands, 101 MCP tools, 26 languages, 100% local. No more burning context on file exploration.
-
-</td>
-<td width="50%">
+<td width="33%">
 
 **[deep-research](https://github.com/Cranot/deep-research)** ⭐ 202
 
-Multi-agent fractal research. Ask a question, spawn recursive sub-agents that explore different perspectives, synthesize everything into one answer.
+Multi-agent fractal research. Ask a question, spawn recursive sub-agents that explore different perspectives, synthesize the findings into a single answer.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
 **[AgentsKB](https://agentskb.com)** · [MCP Server](https://github.com/Cranot/agentskb-mcp)
 
-Knowledge layer for AI agents. 39K+ curated Q&As across 80+ technologies, verified answers in 40ms. **Completely free, no limits.** Plug it in as an MCP server and your agent stops guessing about APIs, SDKs, and frameworks.
+Knowledge layer for AI agents. 39K+ curated Q&As across 80+ technologies, verified answers in 40ms. Completely free, no limits. Plug it in as an MCP server and your agent stops guessing about APIs, SDKs, and frameworks.
 
 </td>
-<td width="50%">
+<td width="33%">
 
 **[super-hermes](https://github.com/Cranot/super-hermes)** ⭐ 3
 
@@ -82,14 +89,14 @@ Drop-in Prism skills for [Hermes Agent](https://github.com/NousResearch/hermes-a
 
 **[claude-code-guide](https://github.com/Cranot/claude-code-guide)** ⭐ 2.5k
 
-The complete Claude Code CLI guide. Live & auto-updated every 2 days. The most-starred community resource for Claude Code.
+The complete Claude Code CLI guide. Live and auto-updated every two days. The most-starred community resource for Claude Code.
 
 </td>
 <td width="50%">
 
 **[chatbot-injections-exploits](https://github.com/Cranot/chatbot-injections-exploits)** ⭐ 397
 
-Curated catalog of prompt injection techniques and exploit patterns. Red-teaming reference for AI safety and security research.
+Curated catalog of prompt-injection techniques and exploit patterns. Red-teaming reference for AI safety and security research.
 
 </td>
 </tr>
@@ -120,7 +127,7 @@ Curated catalog of prompt injection techniques and exploit patterns. Red-teaming
 <td width="25%">
 
 **[mzip](https://github.com/Cranot/mzip)** ⭐ 5
-<br/>Detection-based compression. 32KB for 1MB sequential IDs (32768x). 75% win rate vs zstd/brotli on structured data.
+<br/>Detection-based compression. 32KB for 1MB sequential IDs (32,768x). 75% win rate vs zstd/brotli on structured data.
 
 </td>
 </tr>
