@@ -1,144 +1,34 @@
-<div align="center">
+# Dimitris Mitsos
 
-<img src="./header.svg" width="100%" alt="Dimitris Mitsos — Agent Infrastructure · Systems Engineering"/>
+I build developer tools and AI infrastructure — code-intelligence engines that let AI coding agents start with the codebase already mapped, and the systems work underneath them. Python and C++. 4,600+ GitHub stars across projects people run daily.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+the+intelligence+layer+for+AI+coding+agents;Architectural+analysis+%C2%B7+knowledge+infra+%C2%B7+applied+research;Open+to+co-founding+and+CTO+roles+in+agent+infrastructure)](https://git.io/typing-svg)
+**Available for senior / staff engineering roles in developer tools, AI infrastructure, and code intelligence.** Remote, from Greece (EET — full EU overlap, US mornings). Co-founding conversations welcome as a second track. Reach me on [X](https://x.com/DimitriosMitsos).
 
-[![X](https://img.shields.io/badge/@DimitriosMitsos-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DimitriosMitsos)
-[![roam-code](https://img.shields.io/badge/roam--code.com-0d1117?style=for-the-badge&logo=pypi&logoColor=00ff88)](https://roam-code.com)
-[![AgentsKB](https://img.shields.io/badge/AgentsKB.com-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88)](https://agentskb.com)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cranot)
+## Code intelligence
 
-</div>
+One engine, two front doors.
 
----
+**[roam-code](https://roam-code.com)** [![stars](https://img.shields.io/github/stars/Cranot/roam-code?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/roam-code) — the engine. Run `roam index` once and an agent starts with the codebase fully mapped: symbols, call graphs, dependencies, architecture and git history in local SQLite. 28 languages, 281 commands, 244 MCP tools, change-safety gates. Fully local, no API keys.
+`pip install roam-code` · [roam-code.com](https://roam-code.com) · [docs](https://roam-code.com/docs) · [source](https://github.com/Cranot/roam-code)
 
-I build the intelligence layer for AI coding agents — from structural analysis tools to knowledge infrastructure to the underlying cognitive-compression research. Systems engineering background. 3,700+ stars across agent tooling, AI security, and performance research.
+**[compile-code](https://github.com/Cranot/compile-code)** [![stars](https://img.shields.io/github/stars/Cranot/compile-code?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/compile-code) — the front door. A thin CLI over the same engine: `compile claude` indexes, wires and launches in one step, pre-resolving who-calls-this, what-changed and what-breaks before the agent's first token, then verifying the diff after it edits. Head-to-head on a 300 KLOC Python repo: −83% agent turns, −80% input tokens, −63% cost.
 
-**Open to** collaborations in agent infrastructure. Reach out via [X](https://x.com/DimitriosMitsos).
+## Most used
 
----
+- **[claude-code-guide](https://github.com/Cranot/claude-code-guide)** [![stars](https://img.shields.io/github/stars/Cranot/claude-code-guide?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/claude-code-guide) — the most-starred community reference for Claude Code. Hooks, MCP, settings, skills, the full CLI surface; auto-updated against the official docs, current through v2.1.220.
+- **[super-hermes](https://github.com/Cranot/super-hermes)** [![stars](https://img.shields.io/github/stars/Cranot/super-hermes?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/super-hermes) — skills that teach [Hermes Agent](https://github.com/NousResearch/hermes-agent) (221k★) to write its own analytical prompts, then report both what it found and what it could not see.
+- **[chatbot-injections-exploits](https://github.com/Cranot/chatbot-injections-exploits)** [![stars](https://img.shields.io/github/stars/Cranot/chatbot-injections-exploits?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/chatbot-injections-exploits) — catalog of prompt-injection techniques and exploit patterns. A red-teaming reference since 2023.
+- **[deep-research](https://github.com/Cranot/deep-research)** [![stars](https://img.shields.io/github/stars/Cranot/deep-research?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/deep-research) — fractal multi-agent research. A question spawns angles, angles recurse until atomic, then everything synthesizes back into one answer.
 
-### Flagship
+## Research
 
-<table>
-<tr>
-<td>
+**[agi-in-md](https://github.com/Cranot/agi-in-md)** [![stars](https://img.shields.io/github/stars/Cranot/agi-in-md?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/agi-in-md) — system prompts are cognitive prisms: they change how a model frames a problem, not how hard it thinks. Haiku 4.5 at minimum reasoning, given the right 332-word prompt, scores 9.8 on depth and finds 28 bugs; Opus without it scores 7.3 and finds 18. 82 prisms, 330+ proven principles, 5,800+ experiments, cross-validated on Claude and Gemini.
 
-### [roam-code](https://roam-code.com) &nbsp;·&nbsp; [![Stars](https://img.shields.io/github/stars/Cranot/roam-code?style=flat&label=%E2%98%85&color=00ff88&labelColor=0d1117)](https://github.com/Cranot/roam-code) &nbsp;·&nbsp; [![PyPI](https://img.shields.io/pypi/v/roam-code?style=flat&color=00ff88&labelColor=0d1117&label=pypi)](https://pypi.org/project/roam-code/)
+**[AgentsKB](https://agentskb.com)** — knowledge layer for AI agents: 39,827 verified answers across 244 technologies, returned in ~40 ms, free with no limits. Runs as an [MCP server](https://github.com/Cranot/agentskb-mcp) so agents stop guessing about APIs and SDK versions they were never trained on.
 
-The architectural intelligence layer for AI coding agents. Run `roam index` once and your agent starts with the codebase fully mapped — symbols, call graphs, dependencies, architecture, and git history pre-indexed into a local SQLite database. 100% local, zero API keys.
+## Systems
 
-**[→ roam-code.com](https://roam-code.com)** &nbsp;·&nbsp; [Docs](https://roam-code.com/docs) &nbsp;·&nbsp; [GitHub](https://github.com/Cranot/roam-code) &nbsp;·&nbsp; `pip install roam-code`
-
-</td>
-</tr>
-</table>
-
-### Research
-
-<table>
-<tr>
-<td>
-
-**[agi-in-md](https://github.com/Cranot/agi-in-md)** ⭐ 121
-
-Cognitive-compression research. System prompts are cognitive prisms — they change how models frame problems, not how well they solve them.
-
-**The result**: Haiku 4.5 (cheapest model, minimum reasoning) with the right 332-word prompt scores 9.8 depth and finds 28 bugs. Opus 4.6 (most expensive model, maximum reasoning) without it scores 7.3 and finds 18. 5x cheaper, categorically deeper. **The prompt is the dominant variable.**
-
-40 rounds. 1,000+ experiments across Haiku, Sonnet, and Opus. 13 compression levels (L13 = reflexive ceiling). 204 proven principles. 33 production prisms. Validated on Claude and Gemini. Includes Prism — a CLI tool for structural analysis through cognitive prisms.
-
-</td>
-</tr>
-</table>
-
-### Agent Intelligence
-
-<table>
-<tr>
-<td width="33%">
-
-**[deep-research](https://github.com/Cranot/deep-research)** ⭐ 202
-
-Multi-agent fractal research. Ask a question, spawn recursive sub-agents that explore different perspectives, synthesize the findings into a single answer.
-
-</td>
-<td width="33%">
-
-**[AgentsKB](https://agentskb.com)** · [MCP Server](https://github.com/Cranot/agentskb-mcp)
-
-Knowledge layer for AI agents. 39K+ curated Q&As across 80+ technologies, verified answers in 40ms. Completely free, no limits. Plug it in as an MCP server and your agent stops guessing about APIs, SDKs, and frameworks.
-
-</td>
-<td width="33%">
-
-**[super-hermes](https://github.com/Cranot/super-hermes)** ⭐ 3
-
-Drop-in Prism skills for [Hermes Agent](https://github.com/NousResearch/hermes-agent). Scan, reflect, discover — cross-model validated on Claude Sonnet, Hermes 3 (405B), and Llama 3.1 (70B).
-
-</td>
-</tr>
-</table>
-
-### Community & Security
-
-<table>
-<tr>
-<td width="50%">
-
-**[claude-code-guide](https://github.com/Cranot/claude-code-guide)** ⭐ 2.5k
-
-The complete Claude Code CLI guide. Live and auto-updated every two days. The most-starred community resource for Claude Code.
-
-</td>
-<td width="50%">
-
-**[chatbot-injections-exploits](https://github.com/Cranot/chatbot-injections-exploits)** ⭐ 397
-
-Curated catalog of prompt-injection techniques and exploit patterns. Red-teaming reference for AI safety and security research.
-
-</td>
-</tr>
-</table>
-
-### Systems Engineering
-
-<table>
-<tr>
-<td width="25%">
-
-**[grouped-simd-hashtable](https://github.com/Cranot/grouped-simd-hashtable)** ⭐ 49
-<br/>High-performance C++ hash table. Grouped SIMD metadata scanning.
-
-</td>
-<td width="25%">
-
-**[tieredsort](https://github.com/Cranot/tieredsort)** ⭐ 32
-<br/>C++17 sorting. 3.6x faster than `std::sort`, up to 21x on dense data.
-
-</td>
-<td width="25%">
-
-**[chameleon-cache](https://github.com/Cranot/chameleon-cache)** ⭐ 5
-<br/>Variance-aware cache replacement. +5.09pp over TinyLFU. Developed with feedback from Ben Manes (Caffeine author).
-
-</td>
-<td width="25%">
-
-**[mzip](https://github.com/Cranot/mzip)** ⭐ 5
-<br/>Detection-based compression. 32KB for 1MB sequential IDs (32,768x). 75% win rate vs zstd/brotli on structured data.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cranot&show_icons=true&theme=dark&bg_color=0d1117&icon_color=00ff88&title_color=00ff88&text_color=c9d1d9&border_color=1a1a2e&hide_border=false" height="170"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Cranot&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=1a1a2e" height="170"/>
-
-</div>
+- **[mzip](https://github.com/Cranot/mzip)** [![stars](https://img.shields.io/github/stars/Cranot/mzip?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/mzip) — detection-based compression in C++17. Held-out, type-stratified benchmark over 70 real files: 28 wins, 42 ties, **0 losses**. 7.43× overall ratio against brotli-11 at 4.59×, xz-9e at 4.85× and zstd-22 at 4.11×.
+- **[grouped-simd-hashtable](https://github.com/Cranot/grouped-simd-hashtable)** [![stars](https://img.shields.io/github/stars/Cranot/grouped-simd-hashtable?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/grouped-simd-hashtable) — C++ hash table using grouped SIMD metadata scanning. Beats `ankerl::unordered_dense`, the accepted state of the art, at scale.
+- **[tieredsort](https://github.com/Cranot/tieredsort)** [![stars](https://img.shields.io/github/stars/Cranot/tieredsort?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/tieredsort) — header-only C++17 numeric sorting. 3.6× faster than `std::sort`, up to 21× on dense data.
+- **[chameleon-cache](https://github.com/Cranot/chameleon-cache)** [![stars](https://img.shields.io/github/stars/Cranot/chameleon-cache?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/chameleon-cache) — variance-aware cache replacement, +5.09pp hit rate over TinyLFU. Developed with feedback from Ben Manes, author of Caffeine.
