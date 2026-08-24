@@ -22,7 +22,7 @@ One engine, two front doors.
 
 ## Research
 
-**[agi-in-md](https://github.com/Cranot/agi-in-md)** [![stars](https://img.shields.io/github/stars/Cranot/agi-in-md?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/agi-in-md) — system prompts are cognitive prisms: they change how a model frames a problem, not how hard it thinks. Haiku 4.5 at minimum reasoning, given the right 332-word prompt, scores 9.8 on depth and finds 28 bugs; Opus without it scores 7.3 and finds 18. 82 prisms, 330+ proven principles, 5,800+ experiments, cross-validated on Claude and Gemini.
+**[agi-in-md](https://github.com/Cranot/agi-in-md)** [![stars](https://img.shields.io/github/stars/Cranot/agi-in-md?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/agi-in-md) — system prompts are cognitive prisms: they change how a model frames a problem, not how hard it thinks. A 332-word prompt lifts Haiku 4.5 at minimum reasoning to 9.8/10 AI-judged depth on real production code — the prism, not the model tier, carries the depth. 82 prisms, 330+ proven principles, 5,800+ experiments, cross-validated on Claude and Gemini.
 
 **[AgentsKB](https://agentskb.com)** — knowledge layer for AI agents: 39,827 verified answers across 244 technologies, returned in ~40 ms, free with no limits. Runs as an [MCP server](https://github.com/Cranot/agentskb-mcp) so agents stop guessing about APIs and SDK versions they were never trained on.
 
