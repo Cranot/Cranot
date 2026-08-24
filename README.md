@@ -8,7 +8,7 @@ I build developer tools and AI infrastructure — code-intelligence engines that
 
 One engine, two front doors.
 
-**[roam-code](https://roam-code.com)** [![stars](https://img.shields.io/github/stars/Cranot/roam-code?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/roam-code) — the engine. Run `roam index` once and an agent starts with the codebase fully mapped: symbols, call graphs, dependencies, architecture and git history in local SQLite. 28 languages, 281 commands, 244 MCP tools, change-safety gates. Fully local, no API keys.
+**[roam-code](https://roam-code.com)** [![stars](https://img.shields.io/github/stars/Cranot/roam-code?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/roam-code) — the engine. Run `roam index` once and an agent starts with the codebase fully mapped: symbols, call graphs, dependencies, architecture and git history in local SQLite. 28 languages, 285 commands, 244 MCP tools, change-safety gates. Fully local, no API keys.
 `pip install roam-code` · [roam-code.com](https://roam-code.com) · [docs](https://roam-code.com/docs) · [source](https://github.com/Cranot/roam-code)
 
 **[compile-code](https://github.com/Cranot/compile-code)** [![stars](https://img.shields.io/github/stars/Cranot/compile-code?style=flat&label=%E2%98%85&color=555)](https://github.com/Cranot/compile-code) — the front door. A thin CLI over the same engine: `compile claude` indexes, wires and launches in one step, pre-resolving who-calls-this, what-changed and what-breaks before the agent's first token, then verifying the diff after it edits. Head-to-head on a 300 KLOC Python repo: −83% agent turns, −80% input tokens, −63% cost.
